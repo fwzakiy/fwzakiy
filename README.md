@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning phyton.
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can contact me on link.zakiy.my.id/kontak
+- 📫 You can contact me on https://link.zakiy.my.id/kontak
 
 <!---
 fwzakiy/fwzakiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
