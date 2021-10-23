@@ -1,7 +1,5 @@
 ## Hola, I'm [Faishal Wafiq Zakiy!](https://www.zakiy.my.id) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fwzakiy&label=Views&color=blue&style=flat" alt="fwzakiy" /> </p>
-
 <a href="https://twitter.com/fwzakiy">
   <img align="left" alt="Zakiy's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -33,6 +31,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fwzakiy&label=Views&color=blue&style=flat" alt="fwzakiy" /> </p>
 
 **Languages and Tools:**  
 
